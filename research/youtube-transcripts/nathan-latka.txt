@@ -1,0 +1,675 @@
+We take that 300,000 door count, times
+the five bucks a month to 29 bucks a
+month, that puts you somewhere between
+1.5 million a month in revenue and 3
+million a month in revenue. Is that
+directionally correct?
+>> Yeah, that's about right.
+>> What year was your first million dollar
+year? Do you remember?
+>> First million dollar year, I want to say
+it was in 2022.
+>> If you're targeting 18 million AR by the
+end of this year, what growth rate would
+that represent? Where did you finish in
+December 2025?
+>> Just over 10 million in 2025. We've
+doubled pretty much every year since
+inception.
+>> We know that you grew from 1 million in
+2022 million in 2024 to 10 million in
+2025 targeting 20 million, you know, ish
+at the end of this year, 2,000 logos,
+300,000 door install base. So, where did
+you guys trade at? Were we talking like
+a 100 million valuation or under that?
+>> Yeah, we visited a 100 million dollar
+valuation.
+>> Okay, guys, Justin is a D1 college
+football athlete turned entrepreneur and
+co-founder of Pest Share. He co-founded
+the company to transform property
+management with technology that turns
+these costly pet problems into
+profitable solutions. Justin, you ready
+to take us to the top?
+>> doing? Appreciate you.
+>> It's good to be Do you make more money
+being a college athlete on NIL or on
+pest control AI software?
+>> You know, I I I would say had those
+deals but like when I was playing, I
+feel like that old guy saying, "Back in
+my day," you know, but you know,
+I guess I wish they had those deals back
+when we were playing but I don't know if
+I was going to be ever good enough to be
+able to secure a deal there too. So,
+but it was a good time.
+>> did you play?
+>> I was a strong safety.
+>> Nice. All right, strong safety to pest
+control. Tell us what you're selling
+here. What's the company do?
+>> Yeah, so we're a kind of first ever
+on-demand pest control platform that's
+designed to give residents the tools
+directly in their hands to request pest
+control services. Really, it's meant to
+alleviate a lot of the friction between,
+you know, the the property manager and
+the resident and really kind of the
+negative experience that exists there.
+You know, not only, you know, who's
+responsible for paying for pest control
+but also, you know, what how does the,
+you know, operational execution, you
+know, live kind of within their
+platforms and that experience today and
+it's a very fragmented, very broken
+system. Right now, you know, kind of the
+antiquated, you know, traditional pest
+control model just doesn't necessarily
+help facilitate that through and through
+from request of pest control infestation
+to the execution of the service. And so,
+it's a very kind of broken broken system
+and we are kind of linking that
+together. We still believe that
+professional pest control is the best
+remediation effort, but um in order for
+us to go to do that, we have to have a
+layer of deep technology that's
+integrated within their systems. And so,
+that's that's ultimately what we're
+building with the platform today.
+>> What's the go-to-market motion here?
+Does the property manager, when someone
+new leases from their property, do they
+send them a link to say, "Hey, download
+the Pest Share app. If you have ants on
+your kitchen counter, take a picture,
+we'll get it solved in under 24 hours."
+Or how do people get the thing installed
+to take pictures of the ants in their
+garden?
+>> Yeah, that that's a great question.
+Really, the
+our effort is to make it as seamless and
+as easy as possible. So, really, as soon
+as we onboard a new client, our
+integration within their property
+management software systems, where
+they're actually, you know, managing
+their doors, managing their resident
+experience, we want to integrate
+ultimately in in with that. And that
+that creates a number of you know,
+benefits, there are value frops where
+the property manager as a client
+ultimately has the visibility to see,
+"Okay, what are residents experiencing,
+you know, pest control-wise or pest
+infestation-wise? You know, what are
+what are the the request rates? You
+know, what what types of pests are we
+dealing with?" So, there's reporting
+mechanisms that are kind of put in
+there. And then, a resident-facing side,
+it's as simple as a few clicks of a
+button and ultimately, they are are
+integrated utilizing through the
+property management system, working
+throughout our triage and
+kind of agentic workflows to be able to
+help them not only identify the the
+pests that that that they're having
+issues with because a lot of times the
+layperson doesn't know, am I dealing
+with a bed bug or a carpet beetle or or
+whatnot. So, we have within our Pest IQ
+system, ultimately, the the ability for
+us to to triage that, be able to
+understand exactly what's happening, and
+then working throughout that system, we
+kind of go from request to work order
+maintenance, and then to final
+execution, all kind of within the the
+existing systems. So, it's mainly
+>> So, you raised a $28 million Series A,
+so I assume you have some scale, but
+what's the right question for me to ask
+to understand how you're growing? Is it
+number of individual apartment complexes
+you're installed in? Is it number of
+pictures that residents are taking on a
+monthly basis? Like, what's the growth
+metric you care about?
+>> we are entering the growth phase,
+ultimately. We just launched our Series
+A um just last year, and our growth is
+really by
+a couple of different things. We track
+mainly our door counts. Our door counts
+are really more based off of our logo
+counts, and those are kind of portfolio.
+So, each logo then translates to X
+number of doors within their portfolio,
+both first party and third-party
+property management companies. And so,
+we track a lot of our growth based off
+you know, our GRR and our our retention
+rates, you know, to make sure that we're
+actually driving impact to those end
+users, both resident and property
+manager. So, those are a lot of our
+growth mechanisms if I could even just
+call out a couple of them.
+>> And so, what would logo count be today?
+>> I think we're at roughly about close to
+2,000, and then doors under management,
+ultimately, where we
+just breached over about 300,000 now.
+>> Geez, man, that's congratulations. I
+mean, you must feel pretty excited about
+those numbers. That's impressive.
+>> We're ecstatic, and and it's been a long
+road up to this point, getting it into
+overdrive at this point.
+>> All right. So, 2,000 logos, which are
+like the property managers, and then
+300,000 you call it doors under
+management or D- D- DUM. Maybe we have a
+We need a different acronym, but
+doors under management. Translate this
+though to revenue for me. Who are you
+billing? Is are you billing the logo
+based off the door counter or how do you
+charge?
+>> So now our core customer is the property
+manager. We have the benefit of having a
+few different value props based off of
+the segment. We secure a deal with
+property management client and then they
+they will either choose to extend that
+benefit or the resident will pay for the
+service or they will pay for it, you
+know, directly themselves. And so but
+our transaction generally is through the
+property management.
+>> Okay. And what maybe the right question
+is to ask is on average per door, what
+are you billing on a monthly basis? Is
+it, you know, like 10 bucks a door, a
+dollar a door, you know, a thousand a
+door? How do you think about that?
+>> questions. So by door ultimately it
+ranges from anywhere from $5 plans all
+the way up to a $29 plan. And really the
+way that it works is it's very much very
+similar to kind of a warranty basis. And
+so we have that it's coverage based
+system. So we'll have certain pest
+types. A lot of those pest types are
+going to be the most intrusive pest
+types. So like your cockroaches, your
+bed bugs, you know, mites, fleas, ticks.
+But ultimately a lot of that is what
+when it enters the space, it's what
+decreases kind of that resident
+experience. So for us to be able to have
+quick solution for the resident and then
+quick delivery of service, ultimately
+that helps improve the resident's
+quality of living during their
+residency. And so it again ranging from
+5 to 29 kind of embedded into the lease
+if it's a e-base program versus a
+landlord based program. So
+>> Guys, remember I am not just a YouTuber.
+I'm investing in my third fund. We've
+deployed $250 million into 550 software
+companies so far. Again, at
+founderpath.com. If you're interested in
+capital, I would love to cut you a check
+because I know you're investing in your
+education. You watch my show. So sign up
+at founderpath.com and when you get the
+onboarding email, I reply and I see how
+those just reply and say Nathan, I found
+you through YouTube and I'll make sure
+to prioritize you. I would love to cut
+you a check. Check out founderpath.com.
+>> So that makes sense to me. Let me ask
+you a question though. You have this
+weird thing in place where like if
+you're successful, theoretically a door
+should cancel you because there are no
+rats running around the apartment
+anymore. Why would someone keep paying a
+monthly fee to get rid of rats and mice?
+Like I eventually after the 6-month I'd
+go, "These pest control people aren't
+doing their job. They keep coming back.
+Screw this app."
+>> Yeah, no, that's that's actually a great
+question. Honestly, one of the common
+misconceptions is that if I'm not seeing
+anything, then I don't have any pest
+control issues. Really actually it's the
+inverse. It's you're not having any
+issues because you have pest control. So
+it's kind of the in spite of or is it
+because of?
+>> So you have to sell the vitamin. You're
+This is a classic vitamin versus pill.
+You have to sell the vitamin. Basically
+say, "If you stop taking your vitamin B,
+the rats are going to show up tomorrow
+because you stopped all the preventative
+care."
+>> Exactly right.
+>> And Justin, just to look at your growth,
+I mean this is a great story. I love it.
+So refreshing. It's not another sort of
+AI, you know, go-to-market tool. I mean
+this is very deep in the weeds. You've
+been doing this I believe for 7 years
+since 2019, right?
+>> Right. Yeah.
+>> Only one job on his LinkedIn profile,
+which we love. That's commitment. But if
+we take Justin and put you on the spot a
+little bit here, I apologize for this,
+but we love revenue numbers. If we take
+that $300,000 door count times the five
+bucks a month to 29 bucks a month, that
+puts you somewhere between 1.5 million a
+month in revenue and 3 million a month
+in revenue. Is that directionally
+correct?
+>> Yeah, that's about right. We'll end
+about this year probably around 17, 18
+million.
+>> And just to be clear, I should have
+asked this. Well, actually let me do the
+revenue story first. If you're targeting
+18 million ARR by the end of this year,
+what growth rate would that represent?
+Where did you finish in December 2025?
+>> That would be We finished in 2025 just
+over 5 million. Sorry, just over just
+over 10 million in 2025. We've doubled
+pretty much every year since inception.
+Early days we did a little bit more.
+Since 2024, we've doubled every every
+single year and we're looking to do the
+same thing this year.
+>> What year was your first million-dollar
+year? Do you remember?
+>> First million-dollar year, I want to say
+it was in 2022.
+Don't quote me on that, but I want to
+say it was relatively early on that we
+did just over a million. So, yeah.
+>> So, educate us. We now have the full
+picture, right? We understand your
+story, your background, you're
+committed. We know that you grew from 1
+million in 2022 to 5 million in 2024 to
+10 million in 2025 targeting 20 million,
+you know, ish at the end of this year.
+2,000 logos, 300,000 door installed
+base. You did a 28 million Series A last
+year in 2025. Everyone is wondering what
+the funding market is like right now
+down from 2021 highs. Are you
+comfortable sharing some of the
+valuation range you were in when you
+closed that round?
+>> When we went into valuations raising in
+our Series A, we have kind of this
+little lag of revenue that comes through
+at the onset of an onboarding. And so,
+as we embed, let's say our terms or the
+product into the lease, what we
+ultimately have is we have a a small,
+let's say I call it white space between,
+you know, the the onboarding and then
+full activation of every door within
+that platform. Because it's embedded
+into the lease, we have to wait for
+renewals and leases to come through and
+cycle through. So, it takes us a bit
+time to be able to get full
+implementation. And so, what we have is
+we have a top line contracted revenue
+number, and then we have a live ARR. And
+that ultimately just converted, let's
+say from this kind of cloud of car all
+the way down to what essentially lands
+as live ARR. So, within that white
+space, our customer success, you know,
+departmental team is very responsible
+for translating and converting that car
+to live ARR within, you know, that
+reasonable time,
+you know, time frame. And a lot of that
+is determinant by, you know, the the
+leasing cycle. So, and not every
+property management company has the same
+leasing schedule. So, it's very customer
+dependent on what the how those leases
+renew and and at what point in time they
+renew during the year.
+>> Yeah, there was some interesting posts
+on X recently actually, about just how
+founders should talk about their
+revenue. I love how you just did it,
+right? The difference between if you're
+a marketplace and GMV versus bookings
+and CAR, contracted AR versus actually
+live AR versus MRR. Uh there's some nice
+refresher here on that. So, just to be
+clear again, you did that Series A, you
+gave us all that sort of build-up, but
+then you didn't share where you ended
+up. Help us understand
+>> Yeah, yeah. So, naturally kind of going
+into this space when you're raising,
+contracted revenue is, you know,
+unvalidated both ways. And so, uh a lot
+of There's a lot of skepticism around
+that contracted revenue or GMV,
+ultimately. And so, I think one of the
+biggest things was our biggest effort
+was to prove the validity of that
+connection. And in doing so, naturally,
+when you start seeing a lot of uh a lot
+of that money, it it's based off of the
+ARR multiples as opposed to uncontracted
+rev. So, our efforts leading up to that
+point, and I I did This is probably one
+of the most important things when you're
+going into fundraising, it's that being
+able to give yourself enough time before
+you actually start fundraising to build
+that talk track, to build the proof in
+the pudding, ultimately. To say, "Hey,
+here's our contracted revenue. This is
+ultimately how we're converting. This is
+our confidence in the conversion and in
+that top line, what we feel like we are
+going to convert, let's say, out of that
+nebulous there." And so, in doing so,
+there is some natural discounted that
+will happen on that CAR, but we're we
+were able to kind of piece together that
+line to where you that the stickiness of
+our product within the embedded lease
+was essentially a way for us to claw
+back up to uh clear that multiple on
+that.
+>> total sense to me. Yeah, that makes
+complete sense to me. So, where where
+did you guys trade at? Were we talking
+like a hundred million valuation or
+under that?
+>> Yeah, we raised it at a hundred million
+dollar valuation. You're right on the
+nose there.
+>> Okay, so I guessed right.
+>> Yep.
+>> It always ends up on those numbers. Now,
+one of the questions I want to ask you,
+you didn't raise from like someone that
+everyone knows, which is not a bad
+thing. Sometimes niche and niche
+investors can be very value add. I
+believe you raised from Integrity Growth
+Partners,
+based out of LA, right? Why'd you go
+with them? Have they been a good
+partner? Was it all primary or is there
+a secondary component here?
+>> Yes. Most of it was was primary. I think
+only did a like a very small portion of
+secondary, but most of it was I'm going
+to say 25 was primary. And so we run a a
+pretty tight funnel when it comes to you
+know our our when we're starting to
+actually even consider raising. One of
+the about IGP is that they made the
+effort really early on and they were one
+of the front runners from the get-go
+because the biggest decision makers for
+us is who we partner partner with, not
+necessarily just the money that comes
+through.
+And so we we kind of ultimately believe
+that that not all money is created
+equal. And so it's really important for
+us to make sure that that the the people
+that partner with is that are that are
+essentially cutting that check are the
+right ones to be around the table and
+discussing issues where you know in good
+times, in bad times. Are they going to
+be helpful in in you know difficult
+times? Are they going to be accelerators
+in good times? And so IGP was absolutely
+a a perfect match for us in that regard.
+And I would say one of the
+>> Can you give me an example of how
+they've gone deep? Just I don't mean to
+cut you off, but I just they are really
+well known for being hyper concentrate
+concentrated. They just recently closed
+I think a $220 million fund. Before
+that, all of their funds summed up to
+like $200 million and they took very
+concentrated bets. These weren't like
+30, 15 million dollar checks. It was
+like six checks for for way more. I mean
+they only have three, six, nine
+including you, you know, on their
+website which tells me they get really
+active when they invest in a company.
+How have they done that with you?
+>> They do and I'd say that kind of scared
+a lot of founders too.
+But it actually was was something that
+we we were also looking for
+ways that our partners can also
+contribute to what we lack. Actually the
+IGP guys, um
+you know, the ones that we are most
+stacked with is is Doyle, Grant, and
+Jake. They're they're the three
+primaries that that are working with us.
+But, they really dove into the this the
+numbers, the metrics, um you know, what
+were contributes to it, and what were
+the effects afterwards. And so, and they
+still continue to do that today, and and
+they've been fantastic partners cuz they
+actually come from a
+>> Well, what was the first thing they sort
+of pushed you to think about changing?
+Was it about price point? Was it how you
+do your how you implement the pest
+services when someone asks for, you
+know, mice removal? What was it?
+>> Uh I I would actually say that their uh
+the the biggest thing that they kind of
+first started to to work through was
+creating a sustainable and repeatable um
+you know, model ultimately. And uh what
+I mean by that is tracking the right
+things and understanding in the right
+way what our P&L looked like. And so,
+especially that came into our gross
+margins, you know, our COGS. How do we
+how do we um you know, allocate on the
+balance sheet or on the on the P&L our
+COGS. Uh looking at kind of each of the
+the minute, you know, line items within
+that that are contributing to our gross
+margin. How does that ultimately
+translate to scale? So, a lot of that
+kind of was a lot of back office work
+that they had worked with us. And
+because they came from that PE
+background, a lot of their their their
+background is from that PE space. And
+they're they're vectoring into more of
+that venture growth type of funding,
+which is why they're extremely selective
+with the companies that they also
+partner with. Um they they provide a lot
+of those resources on the back end to
+really kind of both up and and create uh
+visibility into things that might we
+might otherwise overlook. Or as
+founders, we're focused on you know,
+what's next. They're saying like, "Hold
+up. Let's take a look at this because
+this could ultimately contribute to,
+you know, um you know, a slowdown or
+ramp up or whatnot. And so, let's let's
+dive into this, that, and the other. And
+so, they've they've been a fantastic
+partner being able to understand, you
+know, the nuances of the business.
+>> Justin, there's a lot of founders that
+think, "Oh, I can't get any money out of
+my company until I'm doing a hundred
+million of revenue or IPO one day." I
+love it when founders have the courage
+to ask for a secondary, especially when
+you've bootstrapped, you know, in your
+first round doing 28, you know, 28
+million and 3 million secondary. But, a
+lot of founders just don't have either
+they don't have the courage to ask for
+it cuz they think it's going to kill
+their round or they just don't know how
+to ask for it. But, I think once a
+founder is taken care of financially
+personally, you're able to take much
+larger risks in the business and you
+grow faster. Just I guess comment on
+that. How did you do it?
+>> Yeah. I I actually I would agree with
+you on on the risk side of it, too. And
+and there's a a certain comfort level
+and I and I think that this is probably
+where the
+the bridge between venture and and IJP
+is kind of more of that PE side is is,
+you know, we actually feel like that.
+And this stems all the way across the
+organization. And we believe that if our
+our employees, you know, ourselves
+included are comfortable and we don't
+have to worry about all those other
+things, you know, where's you know,
+where is going to come from, where's the
+next Well, how am I going to pay for
+health insurance, etc., then we're going
+to be much more dedicated and and able
+to actually focus and concentrate
+concentrate on the business as opposed
+to worrying about all these other
+things. And so, being able to have kind
+of a
+uh work into that with them and I would
+say IJP
+>> But, how did you have the courage to ask
+for it? There's a lot of founders
+listening right now saying, "Yeah, I
+want to do that, too. I want a 3 million
+secondary. I don't know how to ask for
+it though without killing my round. How
+did you do it?"
+>> Uh actually, it was spurred by IJP. We
+were trying to find room ultimately with
+the investors that our investors and and
+then, you know, Newman coming in. And
+so, we were
+>> Wait, sorry. How much had you raised
+before the 28 million? I thought you
+were bootstrapped.
+>> Uh we were bootstrapped until 2020 when
+we took our first check. So, we went for
+rounds thus far. So, that is seed. We
+did like a we did this a seed two bridge
+and then we did a a series A.
+>> What how much total did you raise in the
+seed and seed two bridge?
+>> Uh we did a 4 million in the bridge and
+then 1 million in the seed.
+>> Okay, so it's not like you raised some
+like 50 million or something. You were
+very capital efficient. You raised one
+under one X your ARR
+>> Right.
+>> prior to the 28 million series A.
+>> Right.
+>> Yeah, very cool.
+>> We did the bridge ultimately for us to
+be able to to prepare us in the game
+that sort I'm that on track to kind of
+the up to be able to show trends
+in order for us to get that series A
+round.
+>> Well, guys, there you have it. You know,
+when you've built something great and
+you're capital efficient, there is
+there's no shame in making sure you take
+care of yourselves, take a first bite at
+the apple, and then scale after that.
+Those of you joining we're live here
+with Pest Share. Just an incredible
+story. If folks want to follow your
+story online after this, where can they
+find you?
+>> Uh I mean, you can find me on LinkedIn.
+Uh not super active on LinkedIn, but I'm
+always happy to you know, help out in
+one way if you have any questions. I'm
+always willing to do that, but uh you
+can find us Dustin at shoot me an email.
+You can find us all around there.
+There's a up the company page and
+whatnot.
+>> Guys, Justin Clemens, former D1 college
+football athlete turned co-founder of
+Pest Share, launched in 2019, raised
+about 5 million between 2019 and 2022.
+They ultimately hit their first million
+of revenue that year as well. Scaled in
+2024 to 5 million bucks of ARR and in
+2025 closed 20 million series A at 100
+million valuation as they broke 10
+million of ARR that year. Ultimately
+scaling out here in 2026 targeting 18
+million by the end of the year. They do
+this by servicing over 2,000 they call
+them logos, but they're property
+managers. Those property managers cover
+over 300,000 doors. Those doors are
+residents, maybe like you if you're
+leasing an apartment. And you guys
+either you pay directly or the property
+manager pays between $5 and $29 per door
+to enable Pest Share to make sure there
+are no mice, ants, or other things
+running through your bedroom. So, on
+that note, Justin, congrats on your
+growth and thanks for taking us to the
+top.
+>> Thank you. Appreciate having me.
+>> You won't believe this CEO's revenue.
+Click here to watch the next episode
+right now.

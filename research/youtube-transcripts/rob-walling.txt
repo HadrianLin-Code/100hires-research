@@ -1,0 +1,482 @@
+If your SaaS is stuck, say you're doing
+five or ten thousand dollars a month, or
+maybe you can't even get to a thousand
+MRR, [music]
+and you can't figure out why it won't
+grow, odds are good that you're missing
+one of the core four SaaS skills. After
+working with thousands of founders and
+investing in more than 230 SaaS
+companies, I can tell you, miss even one
+of these and it becomes a ceiling on
+your entire business, no matter how good
+your market is or how smart your idea
+is. When most founders hear that, they
+think you can hire an agency for
+marketing, that you can find a
+freelancer for development, or you can
+get a co-founder to do whatever it is
+you don't know how to do. And almost
+every time, this doesn't work. So, in
+this video, I'm going to break down what
+the core four actually are, what to do
+if you don't have all of them right now,
+and when you can realistically start
+handing them off. Because you can, it's
+just a lot later than most founders want
+to. So, let's start with what the core
+four SaaS skills actually are. The first
+one, and these are in no particular
+order as I go through them, but the
+first one is product. It's the knowledge
+of what you should be building and how
+it should be built to a certain extent.
+And I don't mean the underlying software
+architecture, that's more in
+development, but I mean how it's going
+to integrate into your existing
+application. And frankly, this skill,
+product, is the one that most people
+don't think about or they underestimate
+how hard it actually is. This is not
+project management where you are just
+moving things along. This is deciding
+what gets built, in what order, why, and
+how. It's about taking customer
+feedback, understanding your space, your
+industry, your niche, and iterating
+towards something that people want and
+are willing to pay for month after
+month. You can't build something people
+want by accident. This is the job of the
+founder, and that's why skill number one
+is product. Skill number two is
+development, and again, these are in no
+particular order for now. Development's
+not just writing code, it's the ability
+to ship fast and maintain a codebase
+that doesn't collapse, so that you don't
+build a ton of technical debt that
+screws you 12 months down the the
+Feature velocity in the early days is
+one of your only real advantages over
+bigger entrenched competitor. And the
+idea is that you ship features fast, but
+you don't introduce a bunch of tech
+debt. And you have no bureaucracy
+because you are so small. You can ship
+in days what takes big companies months.
+Skill number three is marketing. Now,
+this is not posting on Twitter. It's not
+audience building. I've ranted about
+this before. Audience building is not a
+core SaaS skill. There are really three
+layers to marketing. It's execution,
+like the individual contributor pushing
+buttons in an ad console or writing the
+actual content that you're going to to
+use for SEO. The second layer is project
+management. This is keeping everything
+moving, reviewing things, keeping
+everyone accountable. And then there's
+marketing strategy. This is deciding
+which approaches to test and where to
+double down. Now, there are 20 B2B SaaS
+marketing approaches. I've talked about
+them on this channel, on my podcast, and
+in my book, The SaaS Playbook. And as
+I've said, just going and posting on
+social media is not what I'm talking
+about. With marketing, strategy is the
+one that matters most and is hardest to
+replace because that is deciding what to
+test and where to double down. And
+that's not something you can just
+outsource to an agency or ask ChatGPT to
+do for you. And the fourth skill is
+sales. This is having real conversations
+with prospects, understanding
+objections, closing deals, dealing with
+procurement, all the things it takes to
+sell your product. Now, not every SaaS
+needs this. If you are purely
+self-serve, you can skip it. But the
+fastest growing companies in my
+portfolio are almost inevitably doing
+some sales. So, I mentioned earlier that
+missing any one of the core four SaaS
+skills can put a ceiling on your
+business. Here's what I mean by that.
+The way I think about the success of a
+company is a multiplier. It's the
+founder or founders times the product
+times the market. And you might say each
+one is on a one to 10 scale. And realize
+that they multiply, they don't add.
+That's very important here. So, if my
+founder score is a three because I'm
+missing sales and marketing, even a nine
+market and an eight product gives me
+216.
+But if I'm a seven across all four with
+the same product and market, that comes
+out to 504,
+nearly two and a half times the outcome.
+And obviously, these numbers are not
+exact. They're just meant to be
+directions. But here's an example of WP
+Engine. Jason Cohen, who's got to be a
+nine or a or a 10 out of 10 founder,
+launching into a growing market with a
+smart product idea time. That's about as
+close to 10 * 10 * 10 as it gets. So,
+what does it actually look like when one
+of these core four is missing? There are
+four patterns or maybe archetypes that I
+see over and over. The first is the
+builder. Builders missing sales and
+marketing. And this is the most common
+pattern I see because I deal with a lot
+of developers. This is where you're a
+technical founder, you build good
+products or great products, but nobody
+ever knows that they exist. The builder
+thinks that the product should sell
+itself, or they think posting on social
+media counts as marketing. If you're
+really good at product and dev, but you
+just can't get anyone in the door, you
+can't get anyone to pay attention, then
+you might be falling into this trap of
+the builder. The second one is the
+marketer. This is where you're missing
+product. This is very common with info
+marketers or audience-first founders who
+jump into SaaS. They can drive traffic,
+they can get sign-ups, but churn is
+through the roof. They don't know how to
+iterate on a product because in
+information or as a creator, the
+headline is what matters. People pay
+once, and if they never use the product,
+who cares? If they buy your course and
+they don't go through it, these folks
+don't care. SaaS is different. You have
+to build something people keep using and
+keep paying for month after month. And
+these founders, these marketers, can't
+figure out how to do that. They don't
+know what to build, they don't know how
+to take feedback and turn it into
+something better because they don't have
+product or development experience. Then
+we have the outsourcer. This is where
+you're missing development. So, I often
+see non-technical founders who hire an
+agency or freelancer to build their
+product and think that that freelancer
+is going to handle both product and
+development for them. And the number one
+struggle I see from these founders month
+after month, company after company, is
+they have too many bugs. The next agency
+they hire because they inevitably fire
+that person or that agency wants to
+rewrite the entire codebase. They can't
+ship fast enough. They have technical
+debt by the time they launch. And this
+becomes a permanent headwind for the
+business. In almost all of these cases,
+I believe that if you removed that
+headwind by having a developer
+co-founder or a founding engineer who
+really owned that codebase and kept the
+code quality up, it would be a
+significantly different business in
+almost every case. Now, there are
+exceptions to this, but they are in the
+the vast minority. Even across my entire
+portfolio, there's only about 10 or 15%
+of companies that I've invested in that
+don't have at least one technical
+co-founder. But, as I said, there are
+exceptions. Craig Hewitt, the founder of
+Castos, has done it. And there are a
+handful of other Tiny Seeds that have
+accomplished it, but it's a small number
+and the pain is real and it's ongoing.
+And the fourth archetype is the vibe
+coder and this is where you fall into
+the no-code trap or maybe it's having AI
+just write all your code and ship it to
+production without review. This is a
+pattern that we're only seeing over the
+last, I don't know, 12, 18 months, so
+it's a it's a newly formed archetype.
+And these are products that are built on
+vibe code, no code, or third-party
+platforms and inevitably they need a
+complete rewrite at some point. They're
+not You're not going to build a
+seven-figure your business on these
+platforms. I've never seen it done as a
+true SaaS offering. I have seen some
+that are like services on top of
+software where the service is actually
+providing the real value. But, if you
+really want the software to compete on
+its own, everyone I've ever seen or
+invested in, which is just a handful,
+have needed a rewrite. Often, it's
+between, say, 5 and maybe 20K a month in
+revenue, the founder starts realizing
+this isn't going to scale. So, when you
+do that, when you rewrite it, that means
+you stand still for three, six, nine
+months, right when your advantage as a
+startup is speed. My analogy for this is
+if you and I got together with some
+tools and some lumber with no carpentry
+skills, we could build an outhouse or a
+small tool shed and it'd be fine. But
+the moment we tried to build a garage or
+a house or a skyscraper, it would fall
+over. And that's vibe coding. So, it's
+not a dead sense. We've actually funded
+a couple several no-code tools. I hope
+we haven't funded any vibe completely
+vibe coded tools. We've funded a few of
+these at Tiny Seed, but it's a
+meaningful drag on your odds and we
+actually now ask up front if folks are
+vibe coding or using no-code in their
+tool so that we know how to rate that as
+we decide who to make offers to. And
+there are tradeoffs here because no-code
+and vibe coding can get you to an MVP
+quicker, but man, it's really hard to
+stand still for six months in the early
+days, you know, in that five to 20k MRR
+range when you really want to be
+responding to the market. So, if you're
+watching this and you recognize yourself
+in one of these archetypes I've laid
+out, here's what you can do about it.
+So, I'm going to lay out three paths
+that you can take in my order of
+preference. So, the first path and the
+one that I would recommend is to learn
+it yourself. This is my preferred path,
+especially for solo founders. You don't
+need to master all of the core four. You
+need to be just good enough to scrap and
+get by. There's a big difference between
+I need to already be an expert at all
+four and I'm going to take ownership and
+commit the time to getting good at all
+four. And the second one is what
+matters. As a founder, you're going to
+be a jack or Jill of all trades and a
+master of none. That is the job. Most
+successful solo founders I've seen have
+done exactly this. Second path is to
+constrain your idea. It's to use the
+stair-step method. So, if you don't have
+all four, pick a business that doesn't
+require all four. So, a step one
+business in my stair-step model is like
+a Shopify plugin or a tool built on any
+app marketplace. And of course, we have
+a list of more than 80 on the MicroConf
+website. These step-one businesses need
+less development. Maybe they're no-code,
+maybe you vibe code them and they that
+actually works here in this case because
+it is like a tool shed. It's a small
+utility. These have built-in
+distribution because they're in an app
+marketplace. So you only need to learn
+one marketing channel, and they often
+don't require sales. Now, you limit your
+ceiling of how big it can grow, but you
+stay in the game and more importantly,
+you learn a ton of skills along the way.
+You build confidence, you get some
+revenue. This is why the stair-step
+approach works and why I've preached it
+for years. Path three is to find a
+co-founder, but you want to be specific.
+You don't want to look for a business
+co-founder. Like, what does that even
+mean? You want to find someone who fills
+the exact gap in your core four. The
+most valuable skills in a SaaS are sales
+and marketing, one and two. Sometimes
+it's marketing and sales, depending on
+what what niche you're in and your price
+points. Don't give away half the company
+to someone who can't actually execute in
+sales and marketing. Or if you're
+non-technical and you know sales and
+marketing, or you're willing to get
+really good at it, you need to find that
+dev who's not just a developer but also
+knows product. That's the thing to find
+out. What do we build, in what order,
+why, and how? Among the successful
+companies I'm invested in, the core four
+are sometimes spread across three
+co-founders, sometimes it's two, and
+occasionally you get one person who has
+all four. It's certainly rare, but it
+happens. Ruben Gomez is an example of
+this. He's the founder of SignWell. Iran
+Gabrin, who I've had on my podcast,
+founder of Gymdesk, is also someone who
+was a developer who learned product and
+then learned how to do the other two. So
+next, I'm going to give you a high-level
+overview of when you can realistically
+start delegating each of these skills.
+And if you want my full thoughts on all
+of this, the core four plus more, you
+should check out my podcast, Startups
+for the Rest of Us. Specifically,
+episodes 807 and 811. I dive deeper into
+this framework and I answer some
+listener questions about it. And we'll
+link to those episodes in the show
+notes. So, let's say you got the core
+four covered, either yourself or across
+your founding team. The next question
+everyone asks is, "When can I stop doing
+all of this myself? When can I delegate
+it?" And the key principle up front is
+it's not really about a revenue number,
+but it's about repeatability and how
+standardized and certain you can make
+each of these core four. You've heard me
+talk about on this channel before, but
+as a founder, you should be working on
+the risky or the uncertain areas of the
+business. When something becomes more
+repeatable or more certain, that's when
+you can find someone to hand it off to.
+And of course, don't make the common
+mistake. You want to delegate, not
+abdicate. So, you have to train someone
+up and look at their work and help them
+get better at it. Since people always
+ask me for ranges of revenue, like when
+you should do it, here's what I've seen.
+Development is usually the earliest and
+the easiest to delegate. You can hire a
+developer as early as I mean, 10K, 20,
+30K MRR if you're technical yourself.
+So, with my last startup Drip, I had a
+contract developer who later became my
+co-founder. That was Derrick. Plus
+another junior dev by the time we were
+at about, maybe 10 or 15K MRR. But that
+specifically was a market that needed
+years of development just to get table
+stakes. There were hundreds of
+competitors in the email service
+provider or marketing automation space.
+If you're in a tighter vertical with
+less competition, maybe you hire a dev
+at 10, 20, 30K MRR and it's a huge
+weight off your shoulders, but keep your
+architectural decisions and the tech
+leadership on the founding team much
+longer. Delegating execution is very
+different from delegating direction.
+Now, let's talk about sales. This
+depends on complexity. So, if you have a
+simple, repeatable, one-call close, I
+think you can start delegating that at
+20, 30K MRR. I handed off sales at Drip
+around that that range because the calls
+were very similar to each other. And I
+had our customer success person take
+over for sales. If you're doing
+enterprise sales, big ticket, 35,000 a
+year and more, going through
+procurement, I think you need to hold on
+to this at least past 500k, probably
+into seven figures. And if you have a
+dual funnel, let's say you're at $500 a
+month and $5,000 a month, I would hand
+off the lower end deals first and I keep
+the high value ones to yourself. The key
+here is repeatability. If every call is
+different and complex, you're not ready.
+Now, in terms of marketing, there's
+three layers and so three timelines,
+right? First, you have marketing
+execution. This is the individual
+contributor who is actually running the
+ads, writing the articles, creating the
+videos. You can delegate this early to
+contractors and freelancers. It's a
+black box. Does it work or doesn't it?
+Marketing execution of individual tasks
+is actually quite easy to delegate and I
+recommend doing that early. Project
+management is to delegate when you have
+budget, right? This is keeping your
+campaigns and your people on track. But
+strategy, this is deciding what to test,
+analyzing what's working, where to
+double down. This is the hard one. The
+earliest I've ever seen successful
+founders bring someone in to even
+collaborate on strategy after seven
+figures. It's in the one to two million
+ARR range. And they didn't even hand it
+off. It was still collaborative. If
+you're at the zero to one phase and
+you're still figuring out which channels
+work, you cannot outsource this. And the
+fourth and final one is product and this
+is probably the last one you can let go.
+Now, it depends on your product and your
+space, but usually I see folks, again,
+it's that maybe one and a half to three
+million ARR, two to three million if I'm
+if I'm being uh conservative. I can't
+think of a single company that I'm
+invested in across the hundreds I'm
+invested in that brought in outside
+product help before that. So, at Drip,
+the example I've used a few times in
+this video, my co-founder and I made
+every single product decision until I
+think we were doing five million a year.
+We didn't need to do that, but it it
+felt comfortable. And there were two of
+us heading it up. Then, we brought in a
+great product person and even then, it
+was still a three-person collaborative
+process. Good product people are very
+hard to find and they're very expensive.
+And this area is one where the slow burn
+approach matters most. If you've gotten
+value from this video, you should go
+subscribe to the new MicroConf YouTube
+channel. We host two in-person events
+each year with a highly curated main
+stage. Founders and operators who are
+deep experts in their field. The latest
+talks get posted over on the channel.
+And if you're working on building out
+your marketing skills specifically,
+check out this talk from Jesse Showberg
+that he gave at MicroConf Istanbul about
+getting your product mentioned in
+ChatGPT and other LLMs. He collected
+data across 2,000 websites and it's one
+of the most tactical talks we've had.
+It's stuff you can start implementing
+right away. Thanks for watching and
+we'll see you next time.

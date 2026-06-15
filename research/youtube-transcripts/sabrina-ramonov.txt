@@ -1,0 +1,418 @@
+I know people making $50,000 a month
+from AI. None of them built a
+traditional tech startup. They found
+gaps nobody else is filling yet, and I'm
+going to share three with you today.
+Now, you have to understand companies
+are adopting AI tools at record speed,
+but they don't know how to use them, and
+that gap is the opportunity. I call it
+the deployment gap. When technology
+improves faster than humans know how to
+use it, the people who bridge this gap
+get paid. Now, I sold my AI company for
+millions of dollars at age 30, and now I
+teach millions of people AI for free.
+But, first hit like, hit subscribe, and
+hit the notification bell so you never
+miss a training. So, let's dive in. Here
+are three ideas to turn that deployment
+gap into a one-person revenue-generating
+business. So, number one is Microsoft
+Copilot training. I am sure that many of
+you thought I was going to say Claude,
+and it's true Claude is super hot right
+now. I'm actually going to talk about it
+in number two, but number one is very,
+very underserved, and let me explain
+why. In a recent study, Microsoft shared
+that they have over 20 million paid
+Copilot seats. Nearly 70% of Fortune 500
+companies are stuck using Copilot
+whether they want to or not. However,
+the amount of people who are actually
+productive with Copilot, according to a
+recent study, was around 7 million out
+of 20. So, this gap is the opportunity.
+So, we have 20 million plus people
+paying for Microsoft Copilot, but only 7
+million people supposedly using it, and
+they're honestly probably using just 10%
+of the functionality, and they don't
+know about the rest of the
+functionality. So, now I'm going to show
+you some examples of real companies like
+charging money for Copilot training. So,
+here's one just randomly found. I have
+no affiliation with this company
+whatsoever, but their standard rate for
+Copilot training is $15,000 for a
+workshop in a day. Supposedly, 430
+million commercial Copilot seats sold
+worldwide. 67% of security teams have AI
+data concerns, only 35-36%
+actually using Copilot regularly.
+There's lots of companies like this, but
+not as many as you'd think given the
+many many many millions of people stuck
+using Copilot at their company. So, this
+is very exactly how they structure their
+pricing. It's $15,000 for a workshop for
+a day. Here's another one. This is
+actually listed on the official
+Microsoft marketplace. They offer
+Microsoft 365 Copilot workshop. So, this
+is an 8-hour workshop that starts at
+$5,000 for Copilot training. But,
+anyway, I'm just giving real examples of
+what people are charging for this kind
+of thing. I personally don't see much
+content or education about this online.
+I get people DMing me all the time like,
+"Oh, can this be used in Copilot?" Or,
+"How do I use Copilot to do this?" Or,
+like, "I'm stuck using Copilot. How do I
+do all these things you just showed for
+Claude? But, can I do like 5% of it in
+Copilot? Like, please show me." So, I
+think there's a huge opportunity here
+just for Microsoft Copilot training. I
+mean, the number of companies that are
+stuck using Copilot and have a lot of
+money is just a shockingly high number,
+right? So, I feel it's personally a very
+underserved market, and it's going it's
+just continuing to be underserved cuz
+everybody wants to learn Claude. But,
+just because everybody wants to learn
+Claude, like, that doesn't mean they
+have access to Claude in a company
+environment, guys.
+Um so, like, you know, people could be
+learning Claude on the side, on their
+Macs, but in a company, you know, many
+companies are stuck using Copilot, and
+like, they're not going to be adopting
+some of the shinier options. So, action
+plan for you, if you are interested in
+exploring this opportunity, especially
+if you actually have Copilot experience.
+So, on my YouTube channel, I just
+dropped a 2-hour course with the amazing
+Sheree Brockington. She has trained over
+60,000 people how to use Copilot. This
+is like the most awesome beginner
+introduction to it. She really goes
+through how to use the Copilot homepage,
+how to use it in Excel, how to use it in
+Word, how to use it in PowerPoint, etc.
+So, I recommend just binge-watching
+this. So, idea number two is a paid AI
+community. Now, this business model is
+proven, right? This is not like a new
+startup we're building. We're taking
+existing model of a community typically
+offers like courses, weekly meeting/Q&A,
+and then really awesome people. And best
+part of a community is you get paid
+recurring per month. So, you don't have
+to fight for every dollar every single
+month. So, we're taking all of this and
+then we're adding AI to it. Now, you can
+have a community that specifically
+teaches AI or is centered around the
+topic of AI, or you can have
+about a non-AI topic and just use AI to
+help you with the community, like help
+you create content, help you moderate
+the community, etc. Help you drive more
+people into the community, test
+different copyright changes, lead
+magnets, etc. to get people into the
+community. But, those are two distinct
+models, right? You can actually like
+teach AI with an AI-focused community,
+or you can teach a non-AI focused
+community and just use AI to help you
+market the community, run the community,
+etc. So, why are communities popping up
+and what are the different topics that
+we could actually talk about? So, let's
+just take Anthropic Claude as an
+example. The company Anthropic grew
+their annualized revenue by 80x just in
+Q1 2026. What we're going to see
+naturally, because so many people are
+switching to a new tool, you're going to
+see supply versus demand at work. So,
+because we have 80x the user base of
+demand over here. So, all of these
+people are going to be like, "Wait, how
+do I use Claude? How do I use it within
+a team? How do I use it within like an
+enterprise? How do I use it in for this
+use case, this use case over here, this
+use case? I went on YouTube and I
+searched stuff, but I couldn't find
+anything for like the how to use Claude
+for real estate, how to use Claude for
+CFOs, how to use Claude for middle
+managers, how to use Claude for HR, how
+to use Claude for compliance, how do I
+use Claude for my team of 300 people?
+There is already massive demand for this
+type of Claude content. There's not
+enough people to actually fill it. Like,
+the supply is missing. The niches I just
+mentioned, uh they don't get much
+attention at all. So, let's talk about
+that. Like, what are the types of
+communities that you could build? So, I
+just think about it in terms of
+segments. So, one potential segment is
+demographic. So, an easy example of this
+is I do have a free school community.
+It's for women in AI. Like, literally
+women. So, another segment could be
+technical ability. So, is your community
+going to be focused on beginners in
+tech? Is it going to be focused on
+people who don't know how to take a
+screenshot on a computer? Is it focused
+on developers? Like, this is a spectrum
+from like non-tech over here to
+technical over here. Where do you want
+to sit on this spectrum? Skill.
+I don't mean the same thing as technical
+ability. I mean, you could have a
+community oriented around learning a
+specific skill. So, a skill could be
+content creation. It could be generating
+videos with Claude. Could be a specific
+tool. Like, again, I'm seeing
+communities pop up just focused on
+teaching you Claude. It could be a
+specific industry. Other segments. You
+could have a school community focused on
+specific income goals. Could have a
+community focused on building startups
+and products. So, different types of
+vibe coding communities. Vibe coding
+mobile apps. Vibe coding web apps. Vibe
+coding consumer. Vibe coding for B2B,
+vibe coding internal tools. Like they're
+all different segments. Like you don't
+have to choose like all of them
+simultaneously. You could just have a
+paid community teaching Claude. You
+could just have a paid community focused
+on teaching AI for one demographic.
+There are many types of communities to
+build. Like I wouldn't be surprised if
+there are 50 Claude focused communities
+by the end of the year just on school
+because it's so hot right now. There's
+still a big gap around vibe coding
+communities in my opinion. Um there's a
+few, but like there could be so much
+more because so many people are now vibe
+coding and confused about what to do.
+There's really not many based on
+demographic. There's not many based on
+specific income goals. And there's
+definitely like almost none based on
+specific industries, right? Like very
+specifically, how do we use AI for real
+estate to make more money, close more
+leads, do marketing for real estate,
+etc. And then I will just wrap up with
+one thing you can do right now to ask
+Chat GPT or Claude. So, go to your
+favorite AI tool and here's the prompt.
+What AI education niche fits my skill?
+And then we're going to append my
+favorite question at the end. Ask me
+clarifying questions just in case AI
+doesn't know anything about you. So, go
+if you're seriously interested in number
+two, like literally type this into chat
+or Claude right now and start the
+process of just like brainstorming
+different things you could do. So, two I
+think is a lot more flexible. There's a
+lot more optionality because you can
+choose your set of segments to make it
+unique, right? Whereas this one is a
+little more confined, a little more
+defined. Number three is a vibe coding
+agency. Honestly, it's pretty much the
+same as a software development agency of
+the past, but you're heavily using vibe
+coding tools and you're transparent
+about it. Like clients know that you're
+using vibe coding tools to deliver
+faster and deliver higher quality. Talk
+about the old way of doing things versus
+the new way. So, with AI Vibe coding
+tools, yes, they're far from perfect.
+Yes, there security issues. Yes, you
+should know what you're doing if you're
+scaling to hundreds and thousands of
+users. However, they're still really,
+really useful in the early stage when
+you have a brand new code base and
+you're testing lots of different
+hypotheses. So, in the old way of doing
+things, you know, building an MVP could
+take you 3 to 6 months realistically
+anywhere from like 5 to 60,000 dollars.
+And the sad part is you just get like
+tired by the end or your priorities
+change. So, let's say you have a
+brilliant idea, you pour 10K in, you
+find some freelancers to build it out,
+it takes them 4 months. By the end of 4
+months, it barely works.
+Um you launch it to 10 people, they
+don't like it, you realize, "Oh shoot,
+we have to go back and like add these
+things or fix these things." You're
+tired, you've lost energy, and you kind
+of just want to move on to the next
+shiny object.
+This was the old way of doing things and
+that is what I've described I have seen
+more times than I can count. And then
+you're like sad cuz you just blew 10,000
+dollars in 4 months. So, the new way of
+doing things is basically to compress
+this cycle from 3 to 6 months to let's
+say 1 to 3 weeks depending on the
+complexity of your MVP and also your
+technical ability. The more technical
+you are, the faster that you can build
+these MVPs. Instead of 5 to 60K, the
+cost to you as a person building it is
+like let's say 1,000 dollars for all the
+tools and credits. And instead of being
+tired because you spent 4 months
+building the first version, you still
+have energy left to go bring this thing
+to market, keep testing it, keep trying
+to acquire users, get their feedback,
+implement their feedback, and like keep
+going. Um this is the new way of doing
+things with Vibe coding, you can ship in
+a few weeks what used to take months.
+Okay, now you might wonder, "Well, how
+could you make an agency out of this if
+clients can just do this themselves,
+right?"
+Like you could say, "Oh, but can't
+clients just Vibe code their own app?
+Why Why would someone pay an agency to
+do it?" You have to think about what
+clients actually pay for. It's generally
+not just the product. People like me,
+I'm a business owner. I can make a
+decision on a $100,000 purchase in like
+10 minutes. Okay, if it's a $5,000
+purchase, I can make that decision in 15
+seconds. What am I paying for? What do I
+care about? I care about speed, I care
+about clarity, and I also care about
+reliability in the sense that you're
+going to get it done without breaking
+stuff or risking my reputation or
+risking my brand in some way. So, what
+do I mean by this? Like speed, clarity,
+reliability are like fancy guru terms.
+Um
+I just mean like if let's say you're an
+existing business, not a big business,
+just like small business, but you have
+funding to try to build an MVP. Now, you
+could try to build it yourself, so
+that's one option, but you really don't
+know anything about how to build the
+product so that it works for other
+people to use it and pay you. Right?
+There's still like a bunch of steps
+there that uh aren't explained very well
+for vibe coders. You could hire a
+freelancer to do it. Okay, so you might
+search on Upwork or Fiverr for someone
+to do it, or you could hire an agency to
+do it. And what's the difference between
+an agency and a freelancer? An agency
+typically just has a bit more structure
+around their offer and usually a team of
+people. So, in a vibe coding agency, you
+might have somebody just focused on,
+let's say, UI/UX and prototyping. Okay,
+then you might have somebody actually
+building the things, building the back
+end, making sure it's secure. And maybe
+you also have a person that could help
+with marketing the app initially, for
+example, launching it on certain startup
+directories, etc. These are generally
+the three choices. Like you build it
+yourself or someone on your team builds
+it, you hire a freelancer to work with
+you, or you hire an agency that's
+supposed to have like a track record and
+be more reliable. But for sure, there's
+always a market for all three. If I was
+non-technical, I didn't know anything
+about vibe coding, but I had money and I
+could make purchase decisions and I have
+an idea that I want to test, but I don't
+want to be the one building it.
+Your pitch to me is we can deliver it
+for you very quickly. You'll get clarity
+on whether this idea is a yes or a no as
+fast as possible so you don't waste your
+time. It's like the worst thing is if I
+wasted three months of my time on
+something that wasn't going to work and
+you get reliability and safety. We're
+going to make sure your vibe coded app
+doesn't accidentally leak all of your
+customer data so that you're not liable
+or at risk cuz you know that most
+freelancers definitely won't be doing
+that. And the thing is that you can you
+can do this, you can pitch this. Like
+I'm going to give you speed, I'm going
+to give you clarity and I'm going to
+give you reliability/safety
+and you can take on more clients because
+of the efficiency of vibe coding without
+significantly reducing your prices. And
+why? Like it's it's because like these
+things I'm paying for are premium. Like
+if I want these things, I know I'm going
+to pay a premium. If this was maybe less
+important to me, maybe I'd go with
+number two. If I just didn't have any
+budgets, like I'd probably just try to
+do it myself. Okay? But there's a market
+for all three of these options. There's
+a market for all three of these pitches.
+Yeah, so we talked about three ideas to
+build an AI business from zero to 1
+million. Obviously, it still takes hard
+work to do this. There's no such thing
+as an instant easy path, but I believe
+all three of these ideas are highly
+underserved today. Not many people are
+really paying attention to these ideas
+relative to how big the opportunity is.
+So certainly there are paid AI
+communities, but in my opinion, there's
+not that many relative to the demand to
+learn this topic. Okay, if you enjoyed
+this video, hit like, hit subscribe and
+hit the notification bell so you don't
+miss my next training.
